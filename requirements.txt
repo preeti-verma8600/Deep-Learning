@@ -1,0 +1,13 @@
+torch
+torchvision
+ultralytics
+Pillow
+matplotlib
+seaborn
+scikit-learn
+torchsummary
+spacy
+nltk
+tqdm
+tensorboard
+pandas
