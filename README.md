@@ -54,5 +54,4 @@ This assignment involves creating an image captioning model. Given an image, the
 To get started with these notebooks, clone this repository and navigate to the notebooks directory.
 
 ```sh
-git clone https://github.com/yourusername/deep-learning-assignments.git
-cd deep-learning-assignments/notebooks
+git clone https://github.com/preeti-verma8600/Deep-Learning.git
