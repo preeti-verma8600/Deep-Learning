@@ -23,7 +23,7 @@ The goal of this task is to compare the performance of a given pre-trained model
 
 **Evaluation**:  Use the test set to do inference with the newly modified/trained model. Calculate the accuracy.
 
-[Notebook for Image Classification](notebooks/Image_Classification.ipynb)
+[Notebook for Image Classification](Image_Classification.ipynb)
 
 ## Task 2: Object Detection
 
@@ -36,7 +36,7 @@ This assignment focuses on fine-tuning a pre-trained object detection model with
 
 **Evaluation**: Performance measured using mAP (mean Average Precision).
 
-[Notebook for Object Detection](notebooks/Object_Detection_Assignment.ipynb)
+[Notebook for Object Detection](Detection.ipynb)
 
 ## Task 3: Image Captioning
 
@@ -50,7 +50,7 @@ This assignment involves creating an image captioning model. Given an image, the
 
 **Evaluation**: BLEU score.
 
-[Notebook for Image Captioning](notebooks/Image_Captioning_Assignment.ipynb)
+[Notebook for Image Captioning](Image_Captioning.ipynb)
 
 
 ## Getting Started
